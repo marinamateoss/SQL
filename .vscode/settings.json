@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "peliculas",
+            "database": "PRACTICA3/data/moviebig.db"
+        }
+    ]
+}
